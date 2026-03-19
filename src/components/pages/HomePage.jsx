@@ -18,7 +18,7 @@ const HomePage = ({ onStart, evalCount }) => (
         background: "linear-gradient(135deg, #e2e8f0 30%, var(--accent))",
         WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text",
       }}>
-        Diagnostica y fortalece tu seguridad digital
+        Analiza y optimiza tu ciberseguridad
       </h1>
       <p style={{ fontSize: 17, color: "var(--text2)", lineHeight: 1.7, marginBottom: 40, maxWidth: 560, margin: "0 auto 40px" }}>
         Evalúa el nivel de ciberseguridad de tu institución educativa, identifica vulnerabilidades críticas y obtén un plan de mejora personalizado en minutos.
